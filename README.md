@@ -12,10 +12,11 @@ Now find definitions for
   * logic bomb: a set of instructions secretly incorporated into a program so that if a particular condition is satisfied they will be       carried out, usually with harmful effects.
   * Macro virus: A macro virus is a computer virus that "infects" a Microsoft Word or similar application and causes a sequence of           actions to be performed automatically when the application is started or something else triggers it. Macro viruses tend to be           surprising but relatively harmless.
   * port scan: A port scan is a series of messages sent by someone attempting to break into a computer to learn which computer network       services, each associated with a "well-known" port number, the computer provides. Port scanning, a favorite approach of computer         cracker, gives the assailant an idea where to probe for weaknesses.
-  * tabjacking:
-  * ransomware
-  * rootkit
-  * worm
-  * zero day
-  * zombie
+  * tabjacking:Tabjacking is a new form of malware that can enter your PC through vulnerabilities in your Web browser that allow hackers     to insert malicious code into the tabs of your Web browser. The code is capable of hijacking the tab to a new Web page and inserting     advertising pop-ups, worms, trojans, or other malware into your PC.
+  * ransomware: a type of malicious software designed to block access to a computer system until a sum of money is paid.
+  * rootkit: A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or areas of       its software that would not otherwise be allowed (for example, to an unauthorized user) and often masks its existence or the             existence of other software.
+  * worm: A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers. Often,     it uses a computer network to spread itself, relying on security failures on the target computer to access it. Unlike a computer         virus, it does not need to attach itself to an existing program.
+  * zero day: A zero-day virus (also known as zero-day malware or next-generation malware) is a previously unknown computer virus or         other malware for which specific antivirus software signatures are not yet available. Traditionally, antivirus software relies upon     signatures to identify malware.
+  * zombie: Image result for zombie virus define
+    In computer science, a zombie is a computer connected to the Internet that has been compromised by a hacker, computer virus or           trojan horse program and can be used to perform malicious tasks of one sort or another under remote direction.
 
